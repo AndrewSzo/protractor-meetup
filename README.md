@@ -1,2 +1,2 @@
 # protractor-meetup
-Materiały z prezentacji o protractorze na meetupie ŁuczniczQA
+Presentation about Protractor on meetup ŁuczniczQA
